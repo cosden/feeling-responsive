@@ -28,6 +28,7 @@ author: cosden
 url: 'https://cosden.github.io'
 baseurl: '/feeling-responsive'
 
+
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
 improve_content: https://cosden.com/Phlow/feeling-responsive/edit/gh-pages
