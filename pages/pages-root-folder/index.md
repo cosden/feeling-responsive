@@ -15,6 +15,7 @@ widget1:
 widget2:
   title: "RSE Bootcamps"
   url: {{ site.baseurl }}
+  image: trio-looking-at-laptop.jpg
   text: 'Week long, in-person, training events to introduce intermediate/advanced research software developers to Research Software Engineering concepts and techniques'
 widget3:
   title: "Training Material"
