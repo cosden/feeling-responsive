@@ -9,7 +9,7 @@ header:
   image_fullwidth: header_code_01_cropped.jpg
 widget1:
   title: "RSE Workshops"
-  url: site.baseurl
+  url: {{ site.baseurl }}
   image: widget-1-302x182.jpg
   text: 'INTERSECT will sponsor annual workshops for Research Software Engineers to develop and refine training materials.'
 widget2:
