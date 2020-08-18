@@ -14,6 +14,6 @@ This project is supported by National Science Foundation awards [2017424](https:
 
 
 ### Contacts
-Ian A. Cosden, Prinecton University
+Ian A. Cosden, Prinecton University  
 Jeffrey Carver, University of Alabama
 
