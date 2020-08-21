@@ -5,6 +5,24 @@
 - title: Getting Started
   url: "/getting-started/"
   side: left
+  
+- title: Workshops
+  url: "/workshops/"
+  side: left
+  
+- title: Bootcamps
+  url: "/bootcamps/"
+  side: left
+
+- title: Training Material
+  url: "/training-material/"
+  side: left
+
+- title: Participate
+  url: "/participate/"
+  side: left
+
+
 
 - title: "Templates"
   url: "/design/"
@@ -50,21 +68,21 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+#- title: Documentation
+#  url: "/documentation/"
+#  side: left
+#  dropdown:
+#  - title: "Changelog"
+#    url: "/changelog/"
+#  - title: "Roadmap"
+#    url: "/roadmap/"
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+#- title: Blog
+#  url: "/blog/"
+#  side: left
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
