@@ -10,12 +10,12 @@ header:
 widget1:
   title: "RSE Workshops"
   url: {{ site.baseurl }}
-  image: widget-1-302x182.jpg
+  image: CodeReview.jpg
   text: 'INTERSECT will sponsor annual workshops for Research Software Engineers to develop and refine training materials.'
 widget2:
   title: "RSE Bootcamps"
   url: {{ site.baseurl }}
-  image: trio-looking-at-laptop.jpg
+  image: bootcamp-photo-1.jpg
   text: 'Week long, in-person, training events to introduce intermediate/advanced research software developers to Research Software Engineering concepts and techniques'
 widget3:
   title: "Training Material"
